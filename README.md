@@ -13,3 +13,13 @@ The following are the core functionalities of the application:
   - Generation of unique ID for keyword transaction for agents on behalf of cutomers.
   - Generation of unique ID for customers for executing transactions.
   - Deposits and withdrawals through the sterling bank sandbox.
+
+# Agent Registration:
+
+# Customer Registration:
+
+# Account Creation:
+
+# Deposits:
+
+# Withdrawals:
